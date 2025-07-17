@@ -530,8 +530,6 @@ st.markdown("""
 """.strip(), unsafe_allow_html=True)
 st.subheader("This Agent can perform Data Analytics tasks "
              "over Salesforce data in BigQuery.")
-st.markdown("[github.com/vladkol/crm-data-agent]"
-            "(https://goo.gle/cloud-crm-data-agent?utm_campaign=CDR_0xc245fc42_default_b417442301&utm_medium=external&utm_source=blog)")
 st.markdown("<h4>Examples of questions:</h4>", unsafe_allow_html=True)
 st.markdown("""
 <ul style="list-style: none; padding-left: 0;">
