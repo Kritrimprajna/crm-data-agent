@@ -529,7 +529,7 @@ st.markdown("""
 </a>
 """.strip(), unsafe_allow_html=True)
 st.subheader("This Agent can perform Data Analytics tasks "
-             "over Salesforce data in BigQuery.")
+             "over CRM data in BigQuery.")
 st.markdown("<h4>Examples of questions:</h4>", unsafe_allow_html=True)
 st.markdown("""
 <ul style="list-style: none; padding-left: 0;">
